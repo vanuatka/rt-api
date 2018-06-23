@@ -1,0 +1,22 @@
+{
+  "name": "rt-api",
+  "version": "1.0.0",
+  "description": "Request Tracker REST API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanuatka/rt-api.git"
+  },
+  "author": "Ivan Sehliuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanuatka/rt-api/issues"
+  },
+  "homepage": "https://github.com/vanuatka/rt-api#readme"
+}
