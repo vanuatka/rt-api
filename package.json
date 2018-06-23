@@ -2,7 +2,7 @@
   "name": "rt-api",
   "version": "1.0.0",
   "description": "Request Tracker REST API",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
